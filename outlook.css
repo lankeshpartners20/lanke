@@ -821,26 +821,6 @@ footer .underline .sp{
     text-align: center;
 }
 
-#areasdetails h2::before{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 434px;
-    left: 455px;
-}
-
-#areasdetails h2::after{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 434px;
-    right: 455px;
-}
-
 #areasdetails h2{
     color: #e2dddd;
 }
@@ -1105,50 +1085,10 @@ footer .underline .sp{
     transition: all 400ms ease-in-out;
 }
 
-#about h1::before{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 450px;
-    left: 515px;
-}
-
-#about h1::after{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 450px;
-    right: 515px;
-}
-
 /*partners*/
 
 #partnerstitle{
     text-align: center;
-}
-
-#partnerstitle h1::before{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 1300px;
-    left: 510px;
-}
-
-#partnerstitle h1::after{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 1300px;
-    right: 510px;
 }
 
 #partnerstitle h1{
@@ -1291,26 +1231,6 @@ color: #e2dddd;
 
 #choose h1{
     color: #e2dddd;
-}
-
-#choose h1::before{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 2180px;
-    left: 470px;
-}
-
-#choose h1::after{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 2180px;
-    right: 470px;
 }
 
 /*choose*/
@@ -1484,26 +1404,6 @@ color: #e2dddd;
 #conty .coty h2{
     font-size: 3em;
     color: #fff;
-}
-
-#conty .coty h2::before{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 75px;
-    left: 510px;
-}
-
-#conty .coty h2::after{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 75px;
-    right: 510px;
 }
 
 #conty .coty p{
@@ -1890,29 +1790,6 @@ iframe{
     #bcontainer{
         top: -300px;
     }
-
-    #question h2::before{
-        content: "";
-        width: 100px;
-        height: 2px;
-        background-color: #ffffff;
-        position: absolute;
-        top: 4505px;
-        left: 575px;
-    }
-    
-    #question h2::after{
-        content: "";
-        width: 100px;
-        height: 2px;
-        background-color: #ffffff;
-        position: absolute;
-        top: 4505px;
-        right: 575px;
-    }
-
-
-
     .description h4{
         padding-top: 5px;
         padding-right: 750px;
@@ -2000,26 +1877,6 @@ iframe{
         height: 400px !important;
     }
 
-    #partnerstitle h1::before{
-        content: "";
-        width: 100px;
-        height: 3px;
-        background-color: #ffffff;
-        position: absolute;
-        top: 3495px;
-        left: 590px;
-    }
-    
-    #partnerstitle h1::after{
-        content: "";
-        width: 100px;
-        height: 3px;
-        background-color: #ffffff;
-        position: absolute;
-        top: 3495px;
-        right: 590px;
-    }
-
     .over p{
         font-size: 10px;
         width: 80%;
@@ -2041,26 +1898,6 @@ iframe{
         width: 100%;
         margin: 0;
         margin-top: -100px;
-    }
-
-    #choose h1::before{
-        content: "";
-        width: 100px;
-        height: 3px;
-        background-color: #ffffff;
-        position: absolute;
-        top: 2170px;
-        left: 555px;
-    }
-    
-    #choose h1::after{
-        content: "";
-        width: 100px;
-        height: 3px;
-        background-color: #ffffff;
-        position: absolute;
-        top: 2170px;
-        right: 555px;
     }
 
     #conty .coty h2::before{
