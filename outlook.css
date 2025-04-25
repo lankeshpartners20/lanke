@@ -536,26 +536,6 @@ input:checked + label .description{
     color: #e2dddd;
 }
 
-#question h2::before{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 3255px;
-    left: 485px;
-}
-
-#question h2::after{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 3255px;
-    right: 485px;
-}
-
 .contoiner{
     max-width: 600%;
     margin: 20px auto;
