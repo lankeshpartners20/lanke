@@ -523,26 +523,6 @@ textarea.contact-input1 ~ .icon{
     color: #e2dddd;
 }
 
-#question h1::before{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 440px;
-    left: 475px;
-}
-
-#question h1::after{
-    content: "";
-    width: 100px;
-    height: 3px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 440px;
-    right: 475px;
-}
-
 .contoiner{
     max-width: 600%;
     margin: 20px auto;
