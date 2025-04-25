@@ -339,26 +339,6 @@ body{
     color: #f8f5f5;
 }
 
-#practicearea h2::after{
-    content: "";
-    width: 100px;
-    height: 2px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 800px;
-    right: 440px;
-}
-
-#practicearea h2::before{
-    content: "";
-    width: 100px;
-    height: 2px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 800px;
-    left: 440px;
-}
-
 #practicearea h2{
     color: #e2dddd;
 }
